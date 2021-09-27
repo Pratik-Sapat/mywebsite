@@ -1,0 +1,259 @@
+/* Header Section */
+.li{
+    float: left;
+}
+
+.ul{
+    list-style-type: none;
+    margin: -7px;
+    padding: 10px;
+    overflow: hidden;
+    background-color:black;
+    background-image: url('./images_p/Banner-default.png');
+    background-size: 100% 100%;
+    
+}
+
+.li a{
+    display: block;
+    color: white;
+    padding: 15px;
+    margin-left: 40px;
+    text-decoration: none;
+}
+.li a:hover{
+    
+    color: black;
+    background-color: white;
+    transition-duration: 0.5s;
+   
+}
+.git{
+    float: right;
+    margin-right: 20px;
+    margin-top: 1px;
+    display: block;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color: white;
+    border-radius: 25PX;
+}
+
+.git:hover{
+    color: black;
+    background-color: rgb(1, 217, 245);
+    transition-duration: 0.01s;
+    border-radius: 20px;
+    
+}
+
+.li img{
+    width: 50px;
+    margin-right: 80px;
+    padding: 0;
+}
+
+/* Body section */
+.div2{
+    margin-top: 40px;
+}
+.banner{
+    background-size: cover;
+    width: 100.92%;
+    height: 400px;
+    margin-left: -7px;  
+}
+
+.div3{
+    margin-left: -7px; 
+    background-image: url("./images_p/bak5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100.92%;
+}
+/* .img{
+    width: 800px;
+} */
+.width{
+    padding-left: 30px;
+    
+}
+
+.timg{
+    width: 350px;
+    height: 220px;
+}
+
+/* footer */
+
+.footer{
+    background-image: url("./images_p/Banner-default.png");
+    height: 235px;
+    position: relative;
+    background-size: cover;
+    margin-right: -7px;
+    
+}
+.icons{
+    text-align: center;
+    color: white;
+    padding-top: 30px; 
+    margin-left: -90px;
+   
+}
+
+i{
+    padding-left: 90px;
+
+}
+.ficon{
+    background-color: white;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 10px;
+}
+.ficon:hover{
+ 
+    background-color: rgb(10, 10, 10);
+    border-radius: 10px;
+   
+   
+}
+.Copy{
+    color: white;
+    text-align: center;
+    
+}
+
+/* about */
+
+.abackground{
+    background-image: url('./images_p/adarkwallpapers.jpg');
+    background-size: cover;
+    height: 677px;
+    width: 1526px;
+    margin-top: 7px;
+   
+}
+
+/* portfolio */
+.pdiv{
+    background-image: url("./images_p/porback.jpg");
+    background-size: cover;
+    width: 1526px;
+    height: 930px;
+    margin-top: 7px;
+}
+
+.interest{
+    margin-right: 60px;
+    margin-top: 30px;
+}
+
+.pul{
+    color: white;
+    float: right;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: cursive;
+    color: rgb(240, 86, 59);
+}
+
+.chart{
+    padding-top: 20px;
+}
+
+.container{
+    margin-left: 20px;
+    width: 35%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+}
+
+.skill{
+    text-align: right;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    color: white;
+    margin-left: -12px;
+    border-radius: 15px;
+}
+
+.html{
+    width: 90%;
+    background-color:tomato;
+    margin-bottom: 20px;
+    
+}
+
+.css{
+    width: 80%;
+    background-color: tomato;
+    margin-bottom: 20px;
+}
+
+.javascript{
+    width: 65%;
+    background-color: tomato;
+    margin-bottom: 20px;
+}
+
+.php{
+    width: 60%;
+    background-color: tomato;
+    margin-bottom: 20px;
+}
+
+.sname{
+    margin-left: 35px;
+    color: white;
+    margin-bottom: -1px;
+    font-size: 18px;
+    font: bold;
+    font-family: cursive;
+}
+
+.edu{
+    margin-left: 25px;
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+}
+/* contact */
+.cinfo{
+    
+    text-align: center;
+    color: white;
+    padding-bottom: 10px;
+    margin-top: 7px;
+    background-color: #19195e;
+    background-image: url("./images_p/Banner-default.png");
+    background-size: cover;
+    width: 100.5%;
+    
+}
+
+.input{
+    margin-left: 45px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    outline: none;
+    border-color: red;
+}
+
+.label{
+    color: black;
+   
+}
+
+.form{
+    
+    border: solid 1px black;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-bottom: 100px;
+    background-color: white;
+    border-style: none;
+}
+
+
+
